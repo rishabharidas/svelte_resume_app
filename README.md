@@ -1,4 +1,5 @@
 # resume app on SvelteKit(skeleton UI)
+this project is not fully completed; but you can use this as a reference for sveltekit + edgedb based preojects
 
 
 ```bash
@@ -9,7 +10,7 @@ docker compose up --build
 ## Developing
 
 ```bash
-# build with docker for first time
+# use for later
 docker compose up
 ```
 if you are adding adding new fields to the database do run 
