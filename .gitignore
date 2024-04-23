@@ -1,4 +1,3 @@
-dbschema/edgeql-js
 /node_modules/
 /node_modules/*
 /edgedb_data
