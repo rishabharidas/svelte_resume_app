@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@edgedb/generate": "^0.4.1",
-    "@playwright/test": "^1.28.1",
+    "@playwright/test": "^1.57.0",
     "@skeletonlabs/skeleton": "2.8.0",
     "@skeletonlabs/tw-plugin": "0.3.1",
     "@sveltejs/adapter-auto": "^3.0.0",
